@@ -1,0 +1,19 @@
+#title-depression {
+  color: #00bf6f;
+  font: inherit;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.25;
+  font-size: 20px;
+  text-align: center;
+}
+
+#first-question {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+}
